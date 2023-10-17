@@ -4,4 +4,4 @@ The To Do Tracker is a CLI-Based coding project designed for tracking a user's t
 ## Instructions:
 
 ## ⚠️Warning⚠️
-This project has some bugs. Also, using code from this repository as a class assignment, for a hackathon, and for an internshipis is prohibited.
+This project has some bugs. Also, using code from this repository as a class assignment, for a hackathon, and for an internship is prohibited.
